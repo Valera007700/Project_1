@@ -10,6 +10,7 @@ namespace Project_1
 
             Console.WriteLine("First project");
             Console.WriteLine("First Trying");
+            Console.WriteLine("It's without PROBEL");
         }
     }
 }
