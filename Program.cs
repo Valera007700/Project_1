@@ -9,6 +9,7 @@ namespace Project_1
         {
 
             Console.WriteLine("First project");
+            Console.WriteLine("First Trying");
         }
     }
 }
