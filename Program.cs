@@ -8,12 +8,22 @@ namespace Project_1
     {
         static void Main(string[] args)
         {
-#endregion 
+            #endregion
 
 
-            Console.WriteLine("First project");
-            Console.WriteLine("Branch 1.1");
-            
+
+            bool qwe = true;
+            bool asd = false;
+            bool RAVNO = asd && qwe;
+            Console.WriteLine(RAVNO); 
+
+
+
+            //Console.WriteLine("First project");
+            //Console.WriteLine("Branch 1.1");
+            //Console.WriteLine("Again");
+
         }
     }
 }
+    
