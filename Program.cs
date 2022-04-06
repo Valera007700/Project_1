@@ -1,4 +1,5 @@
-﻿using System;
+﻿#region fog
+using System;
 
 
 namespace Project_1
@@ -7,9 +8,12 @@ namespace Project_1
     {
         static void Main(string[] args)
         {
+#endregion 
+
 
             Console.WriteLine("First project");
-            Console.WriteLine("First Trying");
+            Console.WriteLine("Branch 1.1");
+            
         }
     }
 }
